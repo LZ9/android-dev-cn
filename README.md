@@ -43,4 +43,4 @@ androidyue | [androidyue](https://github.com/androidyue) | [技术小黑屋](htt
 Hongyang | [hongyangAndroid](https://github.com/hongyangAndroid)| [Hongyang](http://blog.csdn.net/lmj623565791)| Android
 大头鬼 | [Bruce Lee](https://github.com/lzyzsd)| [大头鬼Bruce](http://blog.csdn.net/lzyzsd/)| Android, RxJava
 markzhai | [markzhai](https://github.com/markzhai)| [markzhai的博客](http://blog.zhaiyifan.cn/)| Android
-maat红飞| [maat红飞](https://github.com/xinghongfei)｜[maat红飞](http://www.jianshu.com/users/8ded1d219a79/top_articles)｜LookLookzuo z
+maat红飞| [maat红飞](https://github.com/xinghongfei)| [maat红飞](http://www.jianshu.com/users/8ded1d219a79/top_articles)| LookLook 作者
